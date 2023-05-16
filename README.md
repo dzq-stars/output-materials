@@ -1,2 +1,2 @@
 # output-materials
-Learned something, tought something, recorded something
+Learned something, thought something, recorded something
